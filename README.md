@@ -12,4 +12,4 @@ Description - The project aims to analyze how long it takes for billing to happe
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png).
 
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png).
+Example: ![Dashboard Preview](https://github.com/rishavanalyst07/UK-Media-Billing-Cycle-Time/blob/main/UK%20Media%20Billing%20Cycle%20Time.png).
