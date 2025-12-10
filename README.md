@@ -10,6 +10,5 @@ Description - The project aims to analyze how long it takes for billing to happe
 
 ### 6. Screenshots
 
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png).
-
-Example: ![Dashboard Preview](https://github.com/rishavanalyst07/UK-Media-Billing-Cycle-Time/blob/main/UK%20Media%20Billing%20Cycle%20Time.png).
+How Dashboard looks like - 
+![Dashboard Preview](https://github.com/rishavanalyst07/UK-Media-Billing-Cycle-Time/blob/main/UK%20Media%20Billing%20Cycle%20Time.png).
