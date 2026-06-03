@@ -2,7 +2,7 @@
 
 Description - The project aims to analyze how long it takes for billing to happen after a media campaign runs, and identify delays or inefficiencies in the process.
 
-1. Project Overview / Problem Statement
+*1. Project Overview / Problem Statement*
 
 “This project was called the UK Media Billing Cycle Time Dashboard. The objective was to analyze the end-to-end billing process and identify delays occurring between media campaign execution, invoice receipt, and invoice booking. The business wanted visibility into billing cycle inefficiencies because delays were impacting cash flow tracking, invoice processing, and operational efficiency.”
 
